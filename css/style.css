@@ -22,8 +22,8 @@ a.skip{
 a.download {
 	text-align: center;
 	margin-top: 30px;
-	font-size: 32px;
-	margin-left: 42%;
+	font-size: 16px;
+	margin-left: 25%;
 	background-color: #F2DFD7;
 
 }
@@ -816,6 +816,15 @@ max-width: 400px;}
 
 		.gallery > img{
  max-width: 400px;}
+
+ a.download {
+	text-align: center;
+	margin-top: 30px;
+	font-size: 32px;
+	margin-left: 42%;
+	background-color: #F2DFD7;
+
+}
 
 
 
